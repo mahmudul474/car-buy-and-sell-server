@@ -34,10 +34,25 @@ const run=async()=>{
   try{
     //usercollection
     const usercollection=client.db("heaeasy").collection("users")
-    const users={
-      test:"test"
-    }
-const resut=await usercollection.insertOne(users)
+   
+app.put("/user/:email",async(req,res)=>{
+const email=req.params.email
+const  user=req.body
+const filter={email:email}
+const option={upsert:true}
+const updoc={
+  $set:user,
+}
+const result=await usercollection.updateOne(filter,updoc ,option)
+
+
+const token=jwt.sign(user,process.env.ACCES_TOKEN,{expiresIn:"1h"})
+res.send({result,token})
+
+
+})
+
+
 
 
 
