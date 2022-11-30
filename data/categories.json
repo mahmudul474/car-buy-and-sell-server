@@ -1,17 +1,18 @@
 [
-  {
-    "title": "Bluetooth Headsets",
-    "catgori_id":"1",
-    "img":"https://ibb.co/sVkLbv4"
-},
+  
 {
   "title": "Wireless Earbuds",
-  "catgori_id":"2",
+  "category":"apple",
   "img":"https://ibb.co/ctf7YsF"
 },
 {
+  "title": "Bluetooth Headsets",
+  "category":"realmi",
+  "img":"https://ibb.co/sVkLbv4"
+},
+{
   "title": "Over-The-Ear Headphones",
-  "catgori_id":"3",
+  "category":"vivo",
 "img":"https://ibb.co/m9RQbVX"
 }
 ]

@@ -1,20 +1,7 @@
 [
     
-    //apple blothot num 1 cataagory
-    {
-        "img":"https://www.shutterstock.com/image-photo/ipoh-perak-malaysia-20-april-260nw-1709501623.jpg",
-        "title":"apple-Airpade",
-"desc":"Spatial audio with dynamic head tracking places sound all around you"
-        ,
-        "rating": 4.2,
-        "brand": "apple",
-        "price":"10",
-         "producid":"1",
-         "seller":{
-            "name":"sakib",
-            "img":"https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png"
-         }
-    },
+
+  
     {
 
         "title":"apple-v2",
@@ -24,8 +11,8 @@
         ,
         "rating": 5.00,
         "brand": "apple",
+        "category": "apple",
         "price":"43",
-         "producid":"1",
          "seller":{
             "name":"sakib",
             "img":"https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png"
@@ -40,50 +27,15 @@
         ,
         "rating": 4.00,
         "brand": "apple",
+        "category": "apple",
         "price":"119",
-         "producid":"1",
+   
          "seller":{
             "name":"sakib",
             "img":"https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png"
          }
     }
-
-
-
-
-//tar headphone
-
-
-{
-    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQInJ8n2UBLNWHjCZ_JHGWJTsm0O1Fn5Yxafw&usqp=CAU",
-    "title":"vivo-headphone",
-"desc":"With the end number redial function Forward backward selections feature pause function"
-    ,
-    "rating": 3.4,
-    "brand": "vivo",
-    "price":"30",
-     "producid":"2",
-     "seller":{
-        "name": "Jennifer Wood",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-     }
-},
-{
-
-    "title":"vivo-crd ",
-    
-    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8DAz1ksldE2b5VUJjuHrPtiq65PBeLziDr6PkRcrUJ5vq6Iyjyo48N8ooPB_pdkBJlqg&usqp=CAU",
-"desc":"Noise reduction technology: DPS digital signal processor Supports automatic switchover to incoming call function"
-    ,
-    "rating": 4.09,
-    "brand": "vivo",
-    "price":"33",
-     "producid":"2",
-     "seller":{
-        "name": "Jennifer Wood",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-     }
-},
+,
 
 {
 
@@ -93,14 +45,34 @@
     ,
     "rating": 3.00,
     "brand": "vivo",
+    "category": "vivo",
     "price":"119",
-     "producid":"2",
+     
      "seller":{
         "name": "Jennifer Wood",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
      }
 }
 
+,
+
+
+
+{
+    "img":"https://www.shutterstock.com/image-photo/ipoh-perak-malaysia-20-april-260nw-1709501623.jpg",
+    "title":"apple-Airpade",
+"desc":"Spatial audio with dynamic head tracking places sound all around you"
+    ,
+    "rating": 4.2,
+    "brand": "apple",
+    "category": "apple",
+    "price":"10",
+ 
+     "seller":{
+        "name":"sakib",
+        "img":"https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png"
+     }
+},
 
 
 
@@ -108,7 +80,6 @@
 
 
 
-//nomal headphone
 
 
 {
@@ -118,8 +89,9 @@
     ,
     "rating": 4.00,
     "brand": "relmi",
+    "category": "relmi",
     "price":"90",
-     "producid":"3",
+  
      "seller":{
         "name": "Jimmy Dane",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
@@ -134,8 +106,9 @@
     ,
     "rating": 4.9,
     "brand": "relmi",
+    "category": "relmi",
     "price":"27",
-     "producid":"3",
+     
      "seller":{
         "name": "Jimmy Dane",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
@@ -150,8 +123,46 @@
     ,
     "rating": 4.09,
     "brand": "relmi",
+    "category": "relmi",
     "price":"19",
-     "producid":"3",
+   
+     "seller":{
+        "name": "Jennifer Wood",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+     }
+}
+
+
+,
+
+
+{
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQInJ8n2UBLNWHjCZ_JHGWJTsm0O1Fn5Yxafw&usqp=CAU",
+    "title":"vivo-headphone",
+"desc":"With the end number redial function Forward backward selections feature pause function"
+    ,
+    "rating": 3.4,
+    "brand": "vivo",
+    "category": "vivo",
+    "price":"30",
+
+     "seller":{
+        "name": "Jennifer Wood",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+     }
+},
+{
+
+    "title":"vivo-crd ",
+    
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8DAz1ksldE2b5VUJjuHrPtiq65PBeLziDr6PkRcrUJ5vq6Iyjyo48N8ooPB_pdkBJlqg&usqp=CAU",
+"desc":"Noise reduction technology: DPS digital signal processor Supports automatic switchover to incoming call function"
+    ,
+    "rating": 4.09,
+    "brand": "vivo",
+    "category": "vivo",
+    "price":"33",
+
      "seller":{
         "name": "Jennifer Wood",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
@@ -163,13 +174,31 @@
 
 
 
-
-
-
-
-
-
-
-
-
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
