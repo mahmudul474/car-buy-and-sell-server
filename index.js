@@ -159,6 +159,7 @@ const run=async()=>{
     //booking data post
     app.post('/bookingData', async (req, res) => {
       const bookingData = req.body;
+      console.log(bookingData)
       const result = await bookingDataCollection.insertOne(bookingData)
       res.send(result)
     })
